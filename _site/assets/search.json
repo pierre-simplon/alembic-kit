@@ -1,0 +1,54 @@
+
+
+[
+  
+  
+    
+    
+      {
+        "title": "Garmin logo blog post",
+        "excerpt": "This is my very second blog post about garmin device. \nI haven’t written anything yet but I’m sure I have some great stories to tell.\n\n",
+        "content": "This is my very second blog post about garmin device. \nI haven’t written anything yet but I’m sure I have some great stories to tell.\n\n\n",
+        "url": "/technologie/2018/08/21/garmin-post/"
+      },
+    
+      {
+        "title": "Hello World",
+        "excerpt": "This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell.\n",
+        "content": "This is my very first blog post. I haven’t written anything yet but I’m sure I have some great stories to tell.\n",
+        "url": "/technologie/2018/08/22/hello-world/"
+      },
+    
+  
+  
+  
+  {
+    "title": "About this website",
+    "excerpt": "\n",
+    "content": "I’m not sure yet what this website is about, but I’m sure I’ll work it out soon.\n",
+    "url": "/about/"
+  },
+  
+  {
+    "title": "Categories",
+    "excerpt": "Category index\n",
+    "content": "\n",
+    "url": "/categories/"
+  },
+  
+  {
+    "title": "Blog",
+    "excerpt": "\n",
+    "content": "\n",
+    "url": "/blog/"
+  },
+  
+  {
+    "title": "Welcome to a trails blog",
+    "excerpt": "\n",
+    "content": "There isn’t much going on here yet, but watch this space\n",
+    "url": "/"
+  }
+  
+]
+
