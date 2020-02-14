@@ -17,5 +17,8 @@ layout: default
   {% if page.aside == true %}{% include site-aside.html %}{% endif %}
 
 </main>
-
+{% if page.title == "About" %}
+{% include site-about-footer.html %}
+{% else %}
 {% include site-footer.html %}
+{% endif %}
